@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/039228b1-79d7-4b4b-9eee-a6fb9d09664d/microsoft.web/sites/subscriptions/039228b1-79d7-4b4b-9eee-a6fb9d09664d/resourceGroups/appsvc_linux_centralus_basic2/providers/Microsoft.Web/sites/gaomysqlquote",
+    "appService.deploySubpath": "."
+}
